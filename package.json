@@ -1,0 +1,24 @@
+{
+  "name": "rest_api_node_express_mongo",
+  "version": "1.0.0",
+  "description": "I am starting REST API build with Node.js and Express along with Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rickyriccs/rest_api_node_express_mongo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickyriccs/rest_api_node_express_mongo/issues"
+  },
+  "homepage": "https://github.com/rickyriccs/rest_api_node_express_mongo#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "6.15"
+  }
+}
